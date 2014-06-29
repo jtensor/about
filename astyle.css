@@ -1,0 +1,129 @@
+html, body{
+  min-height: 100%;
+}
+body{
+	background: url(http://fstoppers.com/wp-content/uploads/2013/11/fstoppers_corporate_head_shot_Gary_martin-3.jpg);
+	background-size: cover;
+}
+.box{
+	width: 500px;
+	height: 800px;
+	background-color: hsla(360, 100%, 100%, 0.1);
+	right:0;
+	left: 0;
+	position: fixed;
+	z-index:1;
+	margin:8em 0em 3em 5em;
+	padding: 0em 2em 3em 2em;ß
+}
+.name{
+	color: #fff;
+	text-align: center;
+	font-family: Tahoma;
+}
+h1{
+	font-size: 3em;
+	margin-bottom: 0em;
+	font-weight: 100;
+}
+h2{
+	margin-top: -.1em;
+	font-weight: 100;
+}
+ul {
+	width: 100%;
+	list-style-type: none;
+	margin-left: 90px;
+}
+li {
+	display: inline-block;
+	padding-left: 5px;
+	height: 45px;
+	width: 40px;	
+}
+.email {
+	background: url(http://icons.iconarchive.com/icons/martz90/circle/512/email-icon.png);
+	background-size: cover;
+}
+.email:hover {
+	height: 55px;
+	width: 50px;
+}
+.twitter {
+	background: url(http://www.onlinekrishnagiri.com/wp-content/uploads/2014/06/twitter-icon.ico);
+	background-size: cover;
+}
+.twitter:hover { 
+	height: 55px;
+	width: 50px;
+}
+.facebook {
+	background: url(http://cupe3906.org/wp-content/uploads/2014/06/facebook.png);
+	background-size: cover;
+}
+.facebook:hover {
+	height: 55px;
+	width: 50px;
+}
+.linkin {
+	background: url(http://icons.iconarchive.com/icons/martz90/circle/512/linkedin-icon.png);
+	background-size: cover;
+}
+.linkin:hover {
+	height: 55px;
+	width: 50px;
+}
+.pinterest {
+	background-color: #fff;
+	background: url(http://icons.iconarchive.com/icons/martz90/circle/512/pinterest-icon.png);
+	background-size: cover;
+}
+.pinterest:hover {
+	height: 55px;
+	width: 50px;
+}
+
+
+.education {
+	font-family: 'Old Standard TT', Arial, serif;
+	font-size: 20px;
+	line-height: .7;
+}
+h4 {
+	text-decoration: underline;
+	font-size: 30px;
+}
+.education>p {
+	
+}
+.school {
+	font-size: 25px;
+	color: black;
+	text-indent: 20px;
+}
+.info { 
+	text-indent: 40px;
+}
+.interest>p:first-child {
+	text-indent: 20px;
+	font-size: 25px;
+	color: red;
+}
+.quote {
+	font-family: 'Merienda', bold;
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: -60px;
+}
+.quote>p:nth-child(2) {
+	color: red;
+	margin-top: -65px;
+}
+
+
+
+
+
+
+
+
